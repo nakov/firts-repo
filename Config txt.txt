@@ -14,7 +14,3 @@ email = heye@gmail.com
 name = Boyan
 size = 186
 email = BP@gmail.com
-
-name = Pepi
-size = Infinity
-email = e@gmail.com..bg
