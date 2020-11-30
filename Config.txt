@@ -2,3 +2,7 @@ name = Nakov
 size = 1200
 email = nakov@someemail.bg
 
+name = Atanas
+size = 183
+email = kruseryyy@gmail.com
+
