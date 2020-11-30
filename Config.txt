@@ -1,3 +1,4 @@
-name = Pesho
+name = Nakov
 size = 1200
-email = pmilen@gmail.com
+email = nakov@someemail.bg
+
