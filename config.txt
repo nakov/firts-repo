@@ -6,3 +6,6 @@ name = Atanas
 size = 183
 email = kruseryyy@gmail.com
 
+name:Peytr
+szw:iNFINITY
+meamoi:hello@f.gh
