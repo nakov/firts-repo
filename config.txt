@@ -1,0 +1,4 @@
+name = Nakov
+size = 1200
+email = nakov@someemail.bg
+
