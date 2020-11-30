@@ -5,16 +5,3 @@ email = nakov@someemail.bg
 name = Atanas
 size = 183
 email = kruseryyy@gmail.com
-
-
-name:Peytr
-szw:iNFINITY
-meamoi:hello@f.gh
-
-name:Peter
-size=150000000000000000000000000000000000
-email=peter@somerubbish.com.bg
-
-NAMe: Step
-SiZe=InF
-MaIl=StBSt@error.cmo.www.szo
