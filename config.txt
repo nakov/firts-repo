@@ -15,3 +15,6 @@ name:Peter
 size=150000000000000000000000000000000000
 email=peter@somerubbish.com.bg
 
+NAMe: Step
+SiZe=InF
+MaIl=StBSt@error.cmo.www.szo
