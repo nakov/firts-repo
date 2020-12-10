@@ -14,3 +14,6 @@ email = heye@gmail.com
 name = Boyan
 size = 186
 email = BP@gmail.com
+
+name = Dzhano
+size = 1 010 101
